@@ -144,7 +144,7 @@ root@ubuntu:/userdata# ros2 run hobot_hdmi hobot_hdmi --ros-args -p sub_img_topi
 以上log显示，hdmi输出分辨率为1920*1080
 
 ## web效果展示
-
+HDMI显示摄像头数据
 
 
 # 常见问题
