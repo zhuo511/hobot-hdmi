@@ -13,7 +13,7 @@
 # limitations under the License.
 
 cmake_minimum_required(VERSION 3.5)
-project(hobot_hdmi)
+project(hobot_hdmi_test)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
